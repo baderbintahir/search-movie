@@ -1,0 +1,39 @@
+.search-container{
+    text-align: center;
+    padding: 2%;
+}
+
+#movie{
+    font-size: 1em;
+    padding: 0 1%;
+    width: 20%;
+    height: 5%;
+    text-align: center;
+}
+
+.search{
+    font-size: 1em;
+    width: 7%;
+    height: 5%;
+    background: white;
+    border: 1px solid black;
+    color: black;
+}
+
+.movie-info{
+    text-align: center;
+    padding: 2%;
+}
+
+.poster{
+    width: 20%;
+}
+
+.title{
+    padding-top: 1%;
+    font-size: 2em;
+}
+
+.year{
+    font-size: 1em;
+}
